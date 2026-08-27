@@ -1,0 +1,240 @@
+Concurrent Socket Server Results
+
+IP: 139.62.210.112
+Port: 4998
+
+okay here is all the data summarized for the concurrent socket server:
+choice 1 date and time:
+========== Results ==========
+Clients spawned       : 1
+Total Turnaround Time : 12 ms
+Avg Turnaround Time   : 12.00 ms
+==============================
+========== Results ==========
+Clients spawned       : 5
+Total Turnaround Time : 81 ms
+Avg Turnaround Time   : 16.20 ms
+==============================
+========== Results ==========
+Clients spawned       : 10
+Total Turnaround Time : 172 ms
+Avg Turnaround Time   : 17.20 ms
+==============================
+========== Results ==========
+Clients spawned       : 15
+Total Turnaround Time : 311 ms
+Avg Turnaround Time   : 20.73 ms
+==============================
+========== Results ==========
+Clients spawned       : 20
+Total Turnaround Time : 376 ms
+Avg Turnaround Time   : 18.80 ms
+==============================
+========== Results ==========
+Clients spawned       : 25
+Total Turnaround Time : 525 ms
+Avg Turnaround Time   : 21.00 ms
+==============================
+========== Results ==========
+Clients spawned       : 100
+Total Turnaround Time : 44287 ms
+Avg Turnaround Time   : 442.87 ms
+==============================
+
+Choice 2 Uptime: ========== Results ==========
+Clients spawned       : 1
+Total Turnaround Time : 13 ms
+Avg Turnaround Time   : 13.00 ms
+==============================
+========== Results ==========
+Clients spawned       : 5
+Total Turnaround Time : 77 ms
+Avg Turnaround Time   : 15.40 ms
+==============================
+========== Results ==========
+Clients spawned       : 10
+Total Turnaround Time : 210 ms
+Avg Turnaround Time   : 21.00 ms
+==============================
+========== Results ==========
+Clients spawned       : 15
+Total Turnaround Time : 328 ms
+Avg Turnaround Time   : 21.87 ms
+==============================
+========== Results ==========
+Clients spawned       : 20
+Total Turnaround Time : 458 ms
+Avg Turnaround Time   : 22.90 ms
+==============================
+========== Results ==========
+Clients spawned       : 25
+Total Turnaround Time : 745 ms
+Avg Turnaround Time   : 29.80 ms
+==============================
+========== Results ==========
+Clients spawned       : 100
+Total Turnaround Time : 45451 ms
+Avg Turnaround Time   : 454.51 ms
+==============================
+
+Choice 3 Memory Use: ========== Results ==========
+Clients spawned       : 1
+Total Turnaround Time : 11 ms
+Avg Turnaround Time   : 11.00 ms
+============================== ========== Results ==========
+Clients spawned       : 5
+Total Turnaround Time : 86 ms
+Avg Turnaround Time   : 17.20 ms
+==============================
+========== Results ==========
+Clients spawned       : 10
+Total Turnaround Time : 181 ms
+Avg Turnaround Time   : 18.10 ms
+==============================
+========== Results ==========
+Clients spawned       : 15
+Total Turnaround Time : 317 ms
+Avg Turnaround Time   : 21.13 ms
+==============================
+========== Results ==========
+Clients spawned       : 20
+Total Turnaround Time : 522 ms
+Avg Turnaround Time   : 26.10 ms
+==============================
+========== Results ==========
+Clients spawned       : 25
+Total Turnaround Time : 657 ms
+Avg Turnaround Time   : 26.28 ms
+==============================
+========== Results ==========
+Clients spawned       : 100
+Total Turnaround Time : 36258 ms
+Avg Turnaround Time   : 362.58 ms
+==============================
+
+Choice 4 Netstat: ========== Results ==========
+Clients spawned       : 1
+Total Turnaround Time : 13 ms
+Avg Turnaround Time   : 13.00 ms
+==============================
+========== Results ==========
+Clients spawned       : 5
+Total Turnaround Time : 64 ms
+Avg Turnaround Time   : 12.80 ms
+==============================
+========== Results ==========
+Clients spawned       : 10
+Total Turnaround Time : 195 ms
+Avg Turnaround Time   : 19.50 ms
+==============================
+========== Results ==========
+Clients spawned       : 15
+Total Turnaround Time : 350 ms
+Avg Turnaround Time   : 23.33 ms
+==============================
+========== Results ==========
+Clients spawned       : 20
+Total Turnaround Time : 494 ms
+Avg Turnaround Time   : 24.70 ms
+==============================
+========== Results ==========
+Clients spawned       : 25
+Total Turnaround Time : 692 ms
+Avg Turnaround Time   : 27.68 ms
+==============================
+========== Results ==========
+Clients spawned       : 100
+Total Turnaround Time : 41064 ms
+Avg Turnaround Time   : 410.64 ms
+==============================
+
+Choice 5 Current Users: ========== Results ==========
+Clients spawned       : 1
+Total Turnaround Time : 17 ms
+Avg Turnaround Time   : 17.00 ms
+==============================
+========== Results ==========
+Clients spawned       : 5
+Total Turnaround Time : 90 ms
+Avg Turnaround Time   : 18.00 ms
+==============================
+========== Results ==========
+Clients spawned       : 10
+Total Turnaround Time : 226 ms
+Avg Turnaround Time   : 22.60 ms
+==============================
+========== Results ==========
+Clients spawned       : 15
+Total Turnaround Time : 398 ms
+Avg Turnaround Time   : 26.53 ms
+==============================
+========== Results ==========
+Clients spawned       : 20
+Total Turnaround Time : 599 ms
+Avg Turnaround Time   : 29.95 ms
+==============================
+========== Results ==========
+Clients spawned       : 25
+Total Turnaround Time : 788 ms
+Avg Turnaround Time   : 31.52 ms
+==============================
+========== Results ==========
+Clients spawned       : 100
+Total Turnaround Time : 46879 ms
+Avg Turnaround Time   : 468.79 ms
+==============================
+
+Choice 6 Running Processes: ========== Results ==========
+Clients spawned       : 1
+Total Turnaround Time : 31 ms
+Avg Turnaround Time   : 31.00 ms
+============================== ========== Results ==========
+Clients spawned       : 5
+Total Turnaround Time : 144 ms
+Avg Turnaround Time   : 28.80 ms
+============================== ========== Results ==========
+Clients spawned       : 10
+Total Turnaround Time : 355 ms
+Avg Turnaround Time   : 35.50 ms
+==============================
+========== Results ==========
+Clients spawned       : 15
+Total Turnaround Time : 850 ms
+Avg Turnaround Time   : 56.67 ms
+============================== ========== Results ==========
+Clients spawned       : 20
+Total Turnaround Time : 1399 ms
+Avg Turnaround Time   : 69.95 ms
+==============================
+========== Results ==========
+Clients spawned       : 25
+Total Turnaround Time : 1368 ms
+Avg Turnaround Time   : 54.72 ms
+==============================
+========== Results ==========
+Clients spawned       : 100
+Total Turnaround Time : 53745 ms
+Avg Turnaround Time   : 537.45 ms
+==============================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
