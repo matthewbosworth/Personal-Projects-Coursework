@@ -1,0 +1,6 @@
+action BT comedy IF friends
+theater BT tv IF evening
+soda BT water IF excited
+popcorn BT chips IF action
+evening BT afternoon IF theater
+comedy BT action IF family

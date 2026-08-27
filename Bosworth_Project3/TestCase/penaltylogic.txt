@@ -1,0 +1,5 @@
+action AND soda, 8
+friends AND evening, 5
+theater AND excited, 7
+popcorn AND tv, 4
+weekend AND comedy, 3

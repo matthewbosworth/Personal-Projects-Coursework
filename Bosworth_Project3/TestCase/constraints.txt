@@ -1,0 +1,7 @@
+NOT theater OR evening
+NOT chips OR NOT comedy
+NOT soda OR NOT afternoon
+NOT family OR NOT action
+NOT weekday OR NOT theater
+NOT excited OR NOT water
+NOT comedy OR NOT weekday

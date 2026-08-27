@@ -1,0 +1,8 @@
+genre: action, comedy
+snack: popcorn, chips
+drink: soda, water
+time: evening, afternoon
+company: friends, family
+screen: theater, tv
+day: weekend, weekday
+mood: excited, relaxed
